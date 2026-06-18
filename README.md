@@ -1,56 +1,86 @@
 # Hi there 👋, I'm Ei Zin Win
 
+### 💻 IT Student | 🎓 Chemistry Graduate | 🚀 Aspiring Full-Stack Software Developer
+
+Welcome to my GitHub profile!
+
+---
+
 ## 🌸 About Me
 
-I am a graduate of Chemistry from Magway University and currently an IT student at Golden Mission Education Center, Magway, Myanmar.
+I am Ei Zin Win, a Chemistry graduate from Magway University and currently studying Information Technology at Golden Mission Education Center (GMEC), Magway, Myanmar.
 
-I am passionate about technology and software development. After completing my degree in Chemistry, I decided to pursue my interest in Information Technology and programming. I am continuously learning and improving my skills in software development, web technologies, and database management.
+I am passionate about software development and continuously improving my knowledge in programming, web development, database management, and modern software technologies.
 
-🌱 Currently Learning:
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- Java SE (Core Java)
-- Java EE (Servlet, JSP, JDBC)
-- MySQL
-  
+After completing my degree in Chemistry, I decided to follow my passion for Information Technology and pursue a career in software development. I enjoy learning new technologies, building projects, solving programming challenges, and gaining practical experience through continuous learning.
 
-🎯 Career Goal:
-To become a Full-Stack Software Developer and contribute to innovative software solutions that make a positive impact.
+I believe that technology can create opportunities and solve real-world problems, and I am committed to becoming a professional software developer in the future.
+
+🎯 **Career Goal:** Full-Stack Software Developer
 
 ---
 
 ## 🎓 Education
 
-- Bachelor of Chemistry, Magway University
-- Information Technology Training, Golden Mission Education Center (GMEC), Magway
+### Bachelor of Chemistry
+**Magway University**
+
+### Information Technology Training
+**Golden Mission Education Center (GMEC), Magway**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌱 Currently Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Java SE (Core Java)
+- Java EE
+- JSP
+- Servlet
+- JDBC
+- MySQL
+- Spring Framework
+- Git & GitHub
+- Software Engineering Fundamentals
+
+---
+
+## 💻 Technical Skills
 
 ### Programming Languages
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 - PHP
 - Java
 
 ### Java Technologies
+
 - Java SE
 - Java EE
 - JDBC
-- Servlet
 - JSP
+- Servlet
 
 ### Database
+
 - MySQL
 
-### Frameworks & Tools
+### Frameworks & Libraries
+
+- Spring Framework
 - Bootstrap
+
+### Development Tools
+
 - Visual Studio Code
 - Eclipse IDE
+- Spring Tool Suite (STS)
+- Spring Workspace
 - Laragon
 - MySQL Workbench
 - Git
@@ -58,46 +88,152 @@ To become a Full-Stack Software Developer and contribute to innovative software 
 
 ---
 
-## 📚 Current Focus
+## 🛠 Technical Knowledge
 
-- Web Development
-- Java Application Development
-- PHP & MySQL Projects
+- Object-Oriented Programming (OOP)
 - Database Design
-- Git & GitHub
-- Software Engineering Fundamentals
+- Web Development
+- Front-End Development
+- Back-End Development
+- CRUD Operations
+- Software Development Lifecycle (SDLC)
+- Version Control System (Git)
 
 ---
 
-## 🚀 Future Learning Goals
+## 🎬 Other Skills
 
+- Video Editing
+- Presentation Design
+- Documentation Writing
+- Research Skills
+- Team Collaboration
+- Problem Solving
+- Communication Skills
+- Time Management
+
+---
+
+## 🌏 Languages
+
+| Language | Level |
+|-----------|---------|
+| 🇲🇲 Myanmar | Native |
+| 🇬🇧 English | Intermediate |
+| 🇯🇵 Japanese | Basic |
+
+---
+
+## 🚀 Current Focus
+
+✔ Web Development
+
+✔ Java Programming
+
+✔ PHP & MySQL Projects
+
+✔ Java EE Web Applications
+
+✔ Database Design and Development
+
+✔ Spring Framework Development
+
+✔ Git & GitHub
+
+✔ Software Engineering Concepts
+
+---
+
+## 📚 Areas of Interest
+
+- Software Development
+- Full-Stack Web Development
+- Database Systems
+- Enterprise Applications
+- UI/UX Design
+- Cloud Technologies
+- Open Source Projects
+- Artificial Intelligence
+
+---
+
+## 🎯 Future Learning Goals
+
+- Spring Boot
 - Laravel
 - React.js
-- REST APIs
-- UI/UX Design
+- RESTful APIs
+- Node.js
 - Cloud Computing
+- Mobile App Development
+- DevOps Fundamentals
+- Microservices Architecture
+
+---
+
+## 📈 Personal Strengths
+
+- Quick Learner
+- Self-Motivated
+- Strong Analytical Thinking
+- Continuous Improvement Mindset
+- Adaptability
+- Teamwork and Collaboration
+- Positive Attitude
+- Passion for Technology
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap
+
+### Backend
+PHP • Java • Java EE • JSP • Servlet
+
+### Database
+MySQL
+
+### Frameworks
+Spring Framework
+
+### Tools
+VS Code • Eclipse • STS • Spring Workspace • Laragon • Git • GitHub
+
+---
+
+## 📂 Projects
+
+Currently working on:
+
+- PHP & MySQL Web Applications
+- Java Desktop Applications
+- Java EE Web Projects
+- Database Management Systems
+- Software Development Projects
+- Personal Portfolio Projects
+
+More projects coming soon... 🚀
 
 ---
 
 ## 💡 Personal Motto
 
-"Continuous learning is the key to growth and success."
+> "Every expert was once a beginner. Every professional was once a student. Never stop learning."
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 📫 Connect With Me
 
-<!--
-**ewin30767-code/ewin30767-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Magway, Myanmar
 
-Here are some ideas to get you started:
+💻 GitHub: https://github.com/YOUR_USERNAME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⭐ Thank you for visiting my profile!
+
+I am always excited to learn new technologies, collaborate on projects, and grow as a software developer.
+
+🚀 Let's learn, build, and grow together!
