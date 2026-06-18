@@ -106,7 +106,6 @@ I believe that technology can create opportunities and solve real-world problems
 - Video Editing
 - Presentation Design
 - Documentation Writing
-- Research Skills
 - Team Collaboration
 - Problem Solving
 - Communication Skills
@@ -118,9 +117,9 @@ I believe that technology can create opportunities and solve real-world problems
 
 | Language | Level |
 |-----------|---------|
-| 🇲🇲 Myanmar | Native |
-| 🇬🇧 English | Intermediate |
-| 🇯🇵 Japanese | Basic |
+| Myanmar | Native |
+| English | Intermediate |
+| Japanese | Basic |
 
 ---
 
