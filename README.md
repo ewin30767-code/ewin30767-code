@@ -14,7 +14,7 @@ I am passionate about technology and software development. After completing my d
 - Java SE (Core Java)
 - Java EE (Servlet, JSP, JDBC)
 - MySQL
-- Spring Framework
+  
 
 🎯 Career Goal:
 To become a Full-Stack Software Developer and contribute to innovative software solutions that make a positive impact.
@@ -48,11 +48,9 @@ To become a Full-Stack Software Developer and contribute to innovative software 
 - MySQL
 
 ### Frameworks & Tools
-- Spring Framework
 - Bootstrap
 - Visual Studio Code
 - Eclipse IDE
-- Spring Tool Suite (STS)
 - Laragon
 - MySQL Workbench
 - Git
@@ -73,7 +71,6 @@ To become a Full-Stack Software Developer and contribute to innovative software 
 
 ## 🚀 Future Learning Goals
 
-- Spring Boot
 - Laravel
 - React.js
 - REST APIs
